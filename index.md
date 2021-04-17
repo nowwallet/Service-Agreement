@@ -1,7 +1,6 @@
 Service Agreement
 
-Special reminder
-
+1.Special reminder
 (1) Before registering as a New Wallet user, users are particularly reminded to read this "New Wallet User Service Agreement" (hereinafter referred to as the "Agreement"). To ensure that users fully understand the terms of this agreement, please read carefully and choose to accept or not accept this agreement. After agreeing and clicking to confirm the terms of this agreement and completing the registration process, you can become an official registered user of New Wallet and enjoy various services of New Wallet. Registration, login, use, etc. will be regarded as acceptance of this agreement and agree to be bound by the terms of this agreement. If you do not agree to this agreement, or if you have any questions about the terms of this agreement, please Newly stop the wallet user registration process, and you can choose not to use the services of this website.
 (2) This agreement stipulates the rights and obligations of the "Now Wallet" service (hereinafter referred to as the "service") between the New Wallet and the user. "Users" refer to individuals and units who register, log in, and use this service. This agreement can be updated by the wallet at any time. Once the updated agreement terms are announced, they will replace the original agreement terms without further notice. Users can check the latest version of the agreement terms in this APP. After modifying the terms of the agreement, if the user does not accept the modified terms, please stop using the services provided by New Wallet Newly. If the user continues to use the services provided by New Wallet, it will be deemed to accept the modified agreement.
 Two, account registration
