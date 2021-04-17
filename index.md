@@ -80,3 +80,4 @@ New Wallet reserves the right to review or delete any content (including but not
 (3) No matter any clause of this agreement is invalid or unenforceable for any reason, the remaining clauses are still valid and binding on both parties.
 (4) The final interpretation right of this agreement belongs to New Wallet Co., Ltd., and all interpretation and modification rights are reserved.
 (5) This agreement shall be applicable from April 18, 2021.
+
